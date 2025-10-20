@@ -52,7 +52,7 @@ This guide walks you through the process of signing up for a **Microsoft Fabric 
 
 ## 5. Activate the 60-Day Fabric Trial Capacity
 
-![Activate Trial](https://github.com/dmitriysolovev/fabric-trainings/blob/main/start-trial-2.png)
+![Activate Trial](https://github.com/dmitriysolovev/fabric-trainings/blob/main/start-fabric-trial-2.png)
 
 - A window appears titled **“Activate your 60-day free Fabric trial capacity.”**  
 - Choose your trial region (default: **East US 2**).  
@@ -62,7 +62,7 @@ This guide walks you through the process of signing up for a **Microsoft Fabric 
 
 ## 6. Successful Activation
 
-![Activation Success](https://github.com/dmitriysolovev/fabric-trainings/blob/main/start-trial-3.png)
+![Activation Success](https://github.com/dmitriysolovev/fabric-trainings/blob/main/start-fabric-trial-3.png)
 
 - A success message confirms:  
   *“Successfully upgraded to Microsoft Fabric.”*  
