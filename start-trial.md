@@ -6,7 +6,7 @@ This guide walks you through the process of signing up for a **Microsoft Fabric 
 
 ## 1. Start the Microsoft Fabric Free Signup
 
-![Step 1 - Get Started](./636a481a-f1bb-4d4a-9545-6e6b394e7590.png)
+![Step 1 - Get Started](https://github.com/dmitriysolovev/fabric-trainings/blob/main/start-trial-1.png)
 
 - Navigate to the Microsoft Fabric signup page.  
 - The system recognizes your Microsoft account (e.g., `admin@AADVSx5283.onmicrosoft.com`).  
